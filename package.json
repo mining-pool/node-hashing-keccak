@@ -1,0 +1,20 @@
+{
+    "name": "hashing-keccak",
+    "version": "0.0.1",
+    "main": "hashing",
+    "author": {
+        "name": "Command M",
+        "email": "maoxs2@163.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maoxs2/node-hashing-keccak.git"
+    },
+    "dependencies": {
+        "bindings": "*"
+    },
+    "keywords": [
+        "keccak_hash",
+        "keccak"
+    ]
+}
